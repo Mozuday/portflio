@@ -26,7 +26,7 @@ const About = () => {
           </h2>
           <div className="w-20 h-1 bg-gradient mb-10"></div>
           
-          <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
             <div className="lg:col-span-2">
               <p className="text-lg text-white/80 mb-6">
                 Passionate Full-Stack Developer with expertise in MERN Stack and a strong
@@ -118,41 +118,6 @@ const About = () => {
                       <a href="https://www.linkedin.com/in/uday-sharma-a36280331/" target="_blank" rel="noopener noreferrer" className="hover:text-theme-pink transition-colors">linkedin.com/in/uday-sharma-a36280331/</a>
                     </li>
                   </ul>
-                </div>
-              </div>
-            </div>
-            
-            <div className="relative">
-              <div className="bg-white/5 backdrop-blur-sm p-6 rounded-xl border border-white/10 h-full">
-                <h3 className="text-xl font-semibold mb-4">Education</h3>
-                <div className="space-y-6">
-                  <div className="relative pl-6 border-l-2 border-theme-purple">
-                    <div className="absolute -left-[5px] top-0 w-2 h-2 rounded-full bg-theme-pink"></div>
-                    <h4 className="font-semibold">Bachelor of Science (Chemistry & Botany)</h4>
-                    <p className="text-white/60 text-sm">MS University, Saharanpur, Uttar Pradesh</p>
-                    <p className="text-white/60 text-sm">July 2022 - July 2025</p>
-                  </div>
-                  
-                  <div className="relative pl-6 border-l-2 border-theme-purple">
-                    <div className="absolute -left-[5px] top-0 w-2 h-2 rounded-full bg-theme-pink"></div>
-                    <h4 className="font-semibold">Full-Stack Development Certification</h4>
-                    <p className="text-white/60 text-sm">MIMO.org</p>
-                    <p className="text-white/60 text-sm">March 2023</p>
-                  </div>
-                  
-                  <div className="relative pl-6 border-l-2 border-theme-purple">
-                    <div className="absolute -left-[5px] top-0 w-2 h-2 rounded-full bg-theme-pink"></div>
-                    <h4 className="font-semibold">MERN-Stack Development Certification</h4>
-                    <p className="text-white/60 text-sm">Mind Luster & CodeHelp by Babbar</p>
-                    <p className="text-white/60 text-sm">February 2023</p>
-                  </div>
-                  
-                  <div className="relative pl-6 border-l-2 border-theme-purple">
-                    <div className="absolute -left-[5px] top-0 w-2 h-2 rounded-full bg-theme-pink"></div>
-                    <h4 className="font-semibold">Senior Secondary Education (12th - PCM)</h4>
-                    <p className="text-white/60 text-sm">The Doon Valley Public School, CBSE</p>
-                    <p className="text-white/60 text-sm">July 2022</p>
-                  </div>
                 </div>
               </div>
             </div>
