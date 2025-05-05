@@ -161,7 +161,33 @@ const Contact = () => {
                       </a>
                     </div>
                   </div>
-                </div>
+
+                    <div className="flex items-start">
+                      <div className="bg-white/10 p-3 rounded-lg mr-4">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="url(#contactGradient4)" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                          <defs>
+                            <linearGradient id="githubGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+                              <stop offset="0%" stopColor="#211F1F" />
+                              <stop offset="100%" stopColor="#6a11cb" />
+                            </linearGradient>
+                          </defs>
+                          <path d="M12 0C5.373 0 0 5.373 0 12c0 5.304 3.438 9.8 8.205 11.388.6.11.82-.26.82-.577v-2.09c-3.338.725-4.04-1.465-4.04-1.465-.545-1.387-1.33-1.759-1.33-1.759-1.088-.74.082-.726.082-.726 1.204.084 1.83 1.244 1.83 1.244 1.07 1.85 2.809 1.315 3.495 1.008.107-.775.418-1.314.76-1.615-2.666-.304-5.467-1.333-5.467-5.93 0-1.307.465-2.382 1.23-3.22-.123-.303-.533-1.523.12-3.167 0 0 1.009-.323 3.303 1.23A11.308 11.308 0 0112 5.75c1.03.001 2.067.138 3.037.405 2.292-1.554 3.303-1.23 3.303-1.23.653 1.644.243 2.864.12 3.167.765.838 1.23 1.913 1.23 3.22 0 4.604-2.806 5.623-5.48 5.923.429.366.814 1.095.814 2.21v3.28c0 .32.217.688.826.577 4.767-1.588 8.205-6.084 8.205-11.388 0-6.627-5.373-12-12-12z"></path>
+                        </svg>
+                      </div>
+
+                      <div>
+                        <h4 className="text-lg font-semibold">GitHub</h4>
+                        <a 
+                          href="https://github.com/Mozuday"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="text-white/70 hover:text-theme-pink transition-colors"
+                        >
+                          https://github.com/Mozuday
+                        </a>
+                      </div>
+                    </div>
+                  </div>
               </div>
             </div>
             

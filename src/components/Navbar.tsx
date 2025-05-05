@@ -1,6 +1,6 @@
 
 import { useState, useEffect } from "react";
-import { Mail, Linkedin, File } from "lucide-react";
+import { Mail, Linkedin, File, Github } from "lucide-react";
 
 const Navbar = () => {
   const [isScrolled, setIsScrolled] = useState(false);
@@ -52,6 +52,14 @@ const Navbar = () => {
         
         {/* Social icons */}
         <div className="hidden md:flex items-center space-x-4">
+          <a 
+            href="https://github.com/Mozuday"
+            target="_blank"
+            className="text-white hover:text-theme-pink transition-colors"
+            aria-label="Github"
+          >
+            <Github size ={20}/>
+          </a>
           <a 
             href="mailto:uday8687@gmail.com"
             className="text-white hover:text-theme-pink transition-colors"

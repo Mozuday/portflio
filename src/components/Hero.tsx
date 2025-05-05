@@ -97,6 +97,16 @@ const skills = [
           <div className="mt-12 flex items-center space-x-4">
             <div className="text-white/60">Find me on:</div>
             <div className="flex space-x-3">
+              <a
+                href="https://github.com/Mozuday"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center hover:bg-theme-purple transition-colors duration-300"
+              >
+                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="white">
+                <path d="M12 .297a12 12 0 00-3.794 23.4c.6.113.82-.26.82-.577v-2.22c-3.338.725-4.042-1.61-4.042-1.61a3.18 3.18 0 00-1.335-1.753c-1.09-.745.082-.73.082-.73a2.53 2.53 0 011.846 1.242 2.57 2.57 0 003.51 1 2.57 2.57 0 01.764-1.616c-2.667-.3-5.467-1.334-5.467-5.933a4.64 4.64 0 011.235-3.213 4.3 4.3 0 01.117-3.169s1.007-.322 3.3 1.23a11.4 11.4 0 016 0c2.29-1.552 3.296-1.23 3.296-1.23a4.3 4.3 0 01.118 3.169 4.64 4.64 0 011.234 3.213c0 4.61-2.803 5.63-5.475 5.922a2.87 2.87 0 01.819 2.223v3.293c0 .32.218.694.825.576A12 12 0 0012 .297z" />
+                </svg>
+              </a>
               <a 
                 href="https://www.linkedin.com/in/uday-sharma-a36780321/" 
                 target="_blank" 
