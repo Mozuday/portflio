@@ -16,7 +16,7 @@ const Footer = () => {
         <div className="pb-8 mb-8 border-b border-white/10">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="mb-6 md:mb-0">
-              <h2 className="text-3xl font-bold text-gradient">Uday.dev</h2>
+              <h2 className="text-3xl font-bold text-gradient">Uday's Portfolio</h2>
               <p className="text-white/60 mt-2">Full-Stack Developer & MERN Specialist</p>
             </div>
             
