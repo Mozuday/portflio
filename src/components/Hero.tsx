@@ -98,7 +98,7 @@ const skills = [
             <div className="text-white/60">Find me on:</div>
             <div className="flex space-x-3">
               <a 
-                href="https://www.linkedin.com/in/uday-sharma-a36280331/" 
+                href="https://www.linkedin.com/in/uday-sharma-a36780321/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center hover:bg-theme-purple transition-colors duration-300"
@@ -131,7 +131,7 @@ const skills = [
             <div className="absolute inset-0 flex items-center justify-center">
               <div className="relative z-10 w-80 h-80 rounded-full overflow-hidden border-4 border-white/20 animate-pulse-glow">
                 <img 
-                  src="/lovable-uploads/c9582d9f-3d6f-4bef-a2fc-0c7abb4d2162.png"
+                  src="/lovable-uploads/udaysharma.jpg"
                   alt="Uday Sharma" 
                   className="w-full h-full object-cover"
                 />

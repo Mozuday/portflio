@@ -60,7 +60,7 @@ const Navbar = () => {
             <Mail size={20} />
           </a>
           <a 
-            href="https://www.linkedin.com/in/uday-sharma-a36280331/" 
+            href="https://www.uday-sharma-a36780321/" 
             target="_blank" 
             rel="noopener noreferrer"
             className="text-white hover:text-theme-pink transition-colors"
@@ -68,13 +68,24 @@ const Navbar = () => {
           >
             <Linkedin size={20} />
           </a>
-          <a 
-            href="#download"
-            className="bg-gradient text-white px-4 py-2 rounded-md font-medium flex items-center space-x-2 hover:opacity-90 transition-opacity"
-          >
-            <File size={16} />
-            <span>Resume</span>
-          </a>
+          <a
+  href="/resume.pdf"
+  download="Uday_Sharma_Resume.pdf"
+  className="flex items-center space-x-2 bg-gradient-to-r from-pink-500 to-purple-500 text-white px-4 py-2 rounded-md font-medium hover:opacity-90 transition-opacity"
+>
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    fill="none"
+    viewBox="0 0 24 24"
+    strokeWidth={2}
+    stroke="currentColor"
+    className="w-5 h-5"
+  >
+    <path strokeLinecap="round" strokeLinejoin="round" d="M4 16v1a2 2 0 002 2h12a2 2 0 002-2v-1M12 12v8m0 0l-4-4m4 4l4-4M4 4h16" />
+  </svg>
+  <span>Resume</span>
+</a>
+
         </div>
       </div>
       
@@ -100,7 +111,7 @@ const Navbar = () => {
               <Mail size={20} />
             </a>
             <a 
-              href="https://www.linkedin.com/in/uday-sharma-a36280331/" 
+              href="https://www.uday-sharma-a36780321/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-white hover:text-theme-pink transition-colors"

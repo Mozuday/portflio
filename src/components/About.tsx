@@ -115,7 +115,7 @@ const About = () => {
                         <rect x="2" y="9" width="4" height="12"></rect>
                         <circle cx="4" cy="4" r="2"></circle>
                       </svg>
-                      <a href="https://www.linkedin.com/in/uday-sharma-a36280331/" target="_blank" rel="noopener noreferrer" className="hover:text-theme-pink transition-colors">linkedin.com/in/uday-sharma-a36280331/</a>
+                      <a href="https://www.uday-sharma-a36280331/" target="_blank" rel="noopener noreferrer" className="hover:text-theme-pink transition-colors">uday-sharma-a36280331/</a>
                     </li>
                   </ul>
                 </div>

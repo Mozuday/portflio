@@ -152,12 +152,12 @@ const Contact = () => {
                     <div>
                       <h4 className="text-lg font-semibold">LinkedIn</h4>
                       <a 
-                        href="https://www.linkedin.com/in/uday-sharma-a36280331/" 
+                        href="https://www.linkedin.com/in/uday-sharma-a36780321/" 
                         target="_blank" 
                         rel="noopener noreferrer"
                         className="text-white/70 hover:text-theme-pink transition-colors"
                       >
-                        linkedin.com/in/uday-sharma-a36280331/
+                        linkedin.com/in/uday-sharma-a36780321/
                       </a>
                     </div>
                   </div>
