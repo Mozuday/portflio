@@ -55,7 +55,7 @@ const LoadingScreen = () => {
         <h1 className="text-4xl md:text-6xl font-extrabold">
           <span className="text-gradient">Uday Sharma</span>
         </h1>
-        <p className="text-white/70 text-center mt-2">Full-Stack Developer & MERN Specialist</p>
+        <p className="text-white/70 text-center mt-2">Full-Stack Developer, Python Developer & MERN Specialist</p>
       </motion.div>
       
       <motion.div 
